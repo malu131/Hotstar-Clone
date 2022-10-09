@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+.footer{
+    color: var rgba(255,255,255,0.6);
+    position: relative;
+
+}
+.footer .container{
+    margin: 0;
+    padding: 25px;
+    max-width: 1170px;
+    width: 100%;
+    font-family: "Roboto","HelbeticNeue-Light",sans-serif;
+    font-size: 1.125em;
+}
+p{
+    font-size: 1.125em;
+}
